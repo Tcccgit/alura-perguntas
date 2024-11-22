@@ -1,7 +1,7 @@
 criaCartao(
     'ciencias?',
-    'o que as plantas precisam para crescer cite 2?',
-    'O Python é uma linguagem de programação'
+    'De onde é a invenção do chuveiro eletrico?',
+    'Brasil'
 )
 
 criaCartao(
