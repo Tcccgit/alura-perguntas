@@ -1,6 +1,6 @@
 criaCartao(
     'ciencias',
-    'De onde é a invenção do chuveiro eletrico?',
+    'De onde se originou o chuveiro eletrico?',
     'Brasil'
 )
 
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'matematica',
     'se você tem 5 maças e ganha mais 3, quantas maçãs você tem agora?',
     '8 maçãs'
 )
