@@ -1,5 +1,5 @@
 criaCartao(
-    'ciencias?',
+    'ciencias',
     'De onde é a invenção do chuveiro eletrico?',
     'Brasil'
 )
